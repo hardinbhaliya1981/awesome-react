@@ -600,6 +600,7 @@ A collection of awesome things regarding React ecosystem.
 * [compose-state - Compose multiple setState or getDerivedStateFromProps updaters in React](https://github.com/tvler/compose-state)
 * [react-with-analytics - Google Analytics for React apps with ease](https://github.com/sonaye/react-with-analytics)
 * [react-cache-me-outside - OTA data updates for React apps. How bow dat!](https://github.com/sonaye/react-cache-me-outside)
+* [react-widgets](https://github.com/Due-Work/react-widgets) - Simplest way to integrate widgets like docs, wiki, knowledge base, live chat, user onboarding, customer feedback etc to your react project.
 
 ##### Integration
 * [ReactJS.NET](https://github.com/reactjs/React.NET)
